@@ -1,0 +1,6 @@
+pip
+gunicorn
+Flask
+hdbcli
+datetime
+flask_cors
